@@ -6,7 +6,7 @@ export default function Featured() {
       <h1 className='px-4 py-1 border-b-2 border-purple-500 text-xl blue-shadow text-teal-300'>
         Featured
       </h1>
-      <div className='flex shadow-inner shadow-purple-500'>
+      <div className='flex'>
         <Image
           src='/assets/clubpenguinmedicon.jpg'
           width={300}

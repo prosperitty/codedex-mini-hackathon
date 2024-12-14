@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import Aside from './components/aside';
 import Featured from './components/featured';
 import Footer from './components/footer';
@@ -11,6 +12,14 @@ export default function Home() {
       <Nav />
       <main>
         <Featured />
+        <section className='flex justify-center m-4'>
+          <Image
+            src='/assets/PacMananimation.gif'
+            width={300}
+            height={300}
+            alt='pacman banner ad'
+          />
+        </section>
         main
       </main>
       <Aside />

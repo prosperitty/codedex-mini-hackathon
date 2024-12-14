@@ -2,7 +2,7 @@ import Image from 'next/image';
 
 export default function Header() {
   return (
-    <header className='flex'>
+    <header className='flex shadow-inner shadow-purple-300'>
       <Image
         src='/assets/Miniclip_Logo_Small.svg'
         width={50}
