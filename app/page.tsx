@@ -4,6 +4,7 @@ import Featured from './components/featured';
 import Footer from './components/footer';
 import Header from './components/header';
 import Nav from './components/nav';
+import GameSection from './components/gameSection';
 
 export default function Home() {
   return (
@@ -20,6 +21,7 @@ export default function Home() {
             alt='pacman banner ad'
           />
         </section>
+        <GameSection title='Games by Alex (@Prosperitty)' />
         main
       </main>
       <Aside />
