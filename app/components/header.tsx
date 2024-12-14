@@ -25,7 +25,7 @@ export default function Header() {
             fill={true}
             alt='retro background gif grid'
           />
-          <h2 className='absolute m-0 text-fuchsia-300 purple-shadow text-xl'>
+          <h2 className='absolute m-0 text-teal-300 blue-shadow text-xl'>
             Welcome to Miniclip!
           </h2>
         </div>
