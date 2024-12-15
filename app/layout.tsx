@@ -24,7 +24,7 @@ const silkScreen = Silkscreen({
 });
 
 export const metadata: Metadata = {
-  title: 'Miniclip Arcade',
+  title: 'Arcade.io',
   description:
     'Play free online games. Immerse yourself in this retro themed arcade webpage while you sit back, relax, and enjoy playing a video game!',
 };
