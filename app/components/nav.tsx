@@ -6,28 +6,28 @@ export default function Nav() {
       <ul className='flex justify-around px-4 border-y-2 border-purple-500 shadow-inner shadow-purple-300'>
         <Link
           className='flex-grow text-center text-xl text-fuchsia-300 purple-shadow hover:text-fuchsia-200 transition-all'
-          href='/#'
+          href='/#home'
         >
           <li>Home</li>
         </Link>
         <Link
           className='flex-grow text-center text-xl text-fuchsia-300 purple-shadow hover:text-fuchsia-200 transition-all'
-          href='/#'
+          href='/#featured'
         >
-          <li>Games</li>
+          <li>Featured</li>
         </Link>
         <Link
           className='flex-grow text-center text-xl text-fuchsia-300 purple-shadow hover:text-fuchsia-200 transition-all'
-          href='/#'
+          href='/#games'
         >
-          <li>Multiplayer Games</li>
+          <li>Games</li>
         </Link>
-        <Link
+        {/* <Link
           className='flex-grow text-center text-xl text-fuchsia-300 purple-shadow hover:text-fuchsia-200 transition-all'
           href='/#'
         >
           <li>Account</li>
-        </Link>
+        </Link> */}
       </ul>
     </nav>
   );

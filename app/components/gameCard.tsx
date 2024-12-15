@@ -5,10 +5,12 @@ export default function GameCard({
   title,
   imageSrc,
   link,
+  altText,
 }: {
   title: string;
   imageSrc: string;
   link: string;
+  altText: string;
 }) {
   return (
     <div className='h-[250px] flex flex-col'>
@@ -17,7 +19,7 @@ export default function GameCard({
           src={imageSrc}
           fill
           style={{ objectFit: 'cover' }}
-          alt='globe logo'
+          alt={altText}
         />
       </div>
       <h2 className='flex-grow my-2 text-md yellow-shadow'>{title}</h2>
