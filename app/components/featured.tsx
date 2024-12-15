@@ -25,7 +25,7 @@ export default function Featured() {
             Make friends and play games in wonderland that is Club Penguin.
           </p>
           <div className='flex justify-end'>
-            <button className='p-2 text-orange-300 orange-shadow border border-orange-300 shadow-inner shadow-orange-300 hover:text-orange-200 transition-all'>
+            <button className='p-2 text-orange-300 orange-shadow border border-orange-400 shadow-inner shadow-orange-400 hover:text-orange-200 transition-all'>
               <Link href={'#'}>Play Now!</Link>
             </button>
           </div>

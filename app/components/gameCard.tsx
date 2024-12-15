@@ -24,7 +24,7 @@ export default function GameCard({
       </div>
       <h2 className='flex-grow my-2 text-md yellow-shadow'>{title}</h2>
       <Link href={link}>
-        <button className='w-full p-1 text-orange-300 orange-shadow border border-orange-300 shadow-inner shadow-orange-300 hover:text-orange-200 transition-all'>
+        <button className='w-full p-1 text-orange-300 orange-shadow border border-orange-400 shadow-inner shadow-orange-400 hover:text-orange-200 transition-all'>
           Play Now!
         </button>
       </Link>
