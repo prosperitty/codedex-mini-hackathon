@@ -25,6 +25,7 @@ export default function Home() {
             width={300}
             height={300}
             alt='pacman banner ad'
+            unoptimized
           />
         </section>
 
@@ -75,6 +76,7 @@ export default function Home() {
             width={300}
             height={300}
             alt='games for you gif'
+            unoptimized
           />
         </section>
 

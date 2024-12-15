@@ -24,6 +24,7 @@ export default function Header() {
             src='/assets/retro-game-grid-bg.gif'
             fill={true}
             alt='retro grid background gif'
+            unoptimized
           />
           <h2 className='absolute m-0 text-teal-300 blue-shadow text-xl'>
             Welcome to Miniclip!
