@@ -22,12 +22,6 @@ export default function Nav() {
         >
           <li>Games</li>
         </Link>
-        {/* <Link
-          className='flex-grow text-center text-xl text-fuchsia-300 purple-shadow hover:text-fuchsia-200 transition-all'
-          href='/#'
-        >
-          <li>Account</li>
-        </Link> */}
       </ul>
     </nav>
   );

@@ -7,7 +7,7 @@ export default function Header() {
         src='/assets/Miniclip_Logo_Small.svg'
         width={50}
         height={50}
-        alt='Miniclip logo'
+        alt='Miniclip small logo'
         className='md:hidden m-4'
       />
       <Image
@@ -23,7 +23,7 @@ export default function Header() {
           <Image
             src='/assets/retro-game-grid-bg.gif'
             fill={true}
-            alt='retro background gif grid'
+            alt='retro grid background gif'
           />
           <h2 className='absolute m-0 text-teal-300 blue-shadow text-xl'>
             Welcome to Miniclip!

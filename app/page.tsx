@@ -1,5 +1,4 @@
 import Image from 'next/image';
-import Aside from './components/aside';
 import Featured from './components/featured';
 import Footer from './components/footer';
 import Header from './components/header';
@@ -75,7 +74,7 @@ export default function Home() {
             src='/assets/gamesforyou.gif'
             width={300}
             height={300}
-            alt='pacman banner ad'
+            alt='games for you gif'
           />
         </section>
 
@@ -141,7 +140,6 @@ export default function Home() {
           </div>
         </GameSection>
       </main>
-      <Aside />
       <section className='flex justify-around items-center mx-4 my-8 gap-4'>
         <div>
           <Image

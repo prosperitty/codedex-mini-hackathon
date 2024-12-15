@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import Link from 'next/link';
 
 export default function Featured() {
   return (
@@ -25,7 +26,7 @@ export default function Featured() {
           </p>
           <div className='flex justify-end'>
             <button className='p-2 text-orange-300 orange-shadow border border-orange-300 shadow-inner shadow-orange-300 hover:text-orange-200 transition-all'>
-              Play Now!
+              <Link href={'#'}>Play Now!</Link>
             </button>
           </div>
         </div>
