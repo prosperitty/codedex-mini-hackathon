@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import Link from 'next/link';
 
 export default function Footer() {
   return (
@@ -10,10 +11,13 @@ export default function Footer() {
         alt='Rotating N64 logo gif'
       />
       <p className='text-center'>
-        <span>Made </span>
-        <span>with </span>
-        <span>{'<3'} </span>
-        <span>by Alex Marmolejo</span>
+        <span className='text-teal-300 blue-shadow'>Made </span>
+        <span className='text-fuchsia-300 purple-shadow'>with </span>
+        <span className='text-orange-300 orange-shadow'>{'<3'} </span>
+        <span className='yellow-shadow'>by </span>
+        <span className='text-red-300 orange-shadow underline'>
+          <Link href={'https://github.com/prosperitty'}>Alex Marmolejo</Link>
+        </span>
       </p>
       <Image
         src='/assets/N64logo.gif'
