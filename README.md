@@ -14,12 +14,12 @@ This project pays homage to these arcade websites where millions of users visite
 
 ### Features
 
-- 90s retro arcade: Upon visiting this page, users will be greeted with a vibrant, glowing header.
-- Featured game: The featured game section displays one game, which is Club Penguin. Unfortunately, this is only shown for display due to the fact that Club Penguin is no longer available. However, this should be a nostalgic surprise to those who remember playing this legendary video game!
-- My games: Scrolling down the page, users will find that the next section contains games built by me, Alex Marmolejo. I took the opportunity to create this section to show some of the games I have built throughout my coding journey! Feel free to have a look!
-- Additional games: Scrolling further down the page, users will find another list of games. These are games I have found throughout the internet. Some of these games are popular in modern times, and some are old favorites, such as Pacman. These are real games with appropriate links to these games.
-- Gifs: Across this website are retro arcade gifs along with retro anime gifs, which are used to enhance the 90s vibe.
-- Resources:
+- **90s retro arcade**: Upon visiting this page, users will be greeted with a vibrant, glowing header.
+- **Featured game**: The featured game section displays one game, which is Club Penguin. Unfortunately, this is only shown for display due to the fact that Club Penguin is no longer available. However, this should be a nostalgic surprise to those who remember playing this legendary video game!
+- **My games**: Scrolling down the page, users will find that the next section contains games built by me, Alex Marmolejo. I took the opportunity to create this section to show some of the games I have built throughout my coding journey! Feel free to have a look!
+- **Additional games**: Scrolling further down the page, users will find another list of games. These are games I have found throughout the internet. Some of these games are popular in modern times, and some are old favorites, such as Pacman. These are real games with appropriate links to these games.
+- **Gifs**: Across this website are retro arcade gifs along with retro anime gifs, which are used to enhance the 90s vibe.
+- **Resources**:
   - https://gifcities.org
   - https://www.webdesignmuseum.org/all-websites/
   - https://neocities.org/
